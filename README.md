@@ -2,51 +2,73 @@
 
 by Mariane McGrath
 
-## 📦 Setup
+#**Overview**
+This Jupyter Notebook contains practical exercises and code implementations for fundamental data analysis concepts. It serves as a hands-on companion to theoretical principles and covers essential data manipulation, visualisation, and analysis techniques.
 
-1. Sign up for a free GitHub account.
-2. Go to the repository page in your browser
-3. Click the green Code button
-4. Click the CodeSpaces tab
-5. Click Create new Codespace on the main.
+## Notebook Structure
+The notebook is organised into clear sections, each focusing on a specific data analysis task or concept.
 
-## 🌟 Highlights of Project - Topics covered
+### Task 1
+- Sourcing the Data Set
+### Task 2
+- Exploring the Data Structure
+### Task 3
+- Summarising the Data
+### Task 4
+- Visualising Features
+### Task 5
+- Investigating Relationships
+### Task 6
+- Analysing Class Distributions
+### Task 7
+- Boxplots of Petal lengths
+### Task 8
+- Correlation Heatmap
+### Task 9
+ - Coefficient of determination R^2
+### Task 10
+- Pairplot of the dataset
+ 
+## Dependencies
+To run this notebook, you'll need:
+ - Python 3.6+
+ - Jupyter Notebook/Lab
+ - Git/GitHub
+ - Codespaces
 
- - Sourcing the Data Set
- - Exploring the Data Structure
- - Summarising the Data
- - Visualising Features
- - Investigating Relationships
- - Analysing Class Distributions
- - Computing Correlations
- - Fitting a Simple Linear Regression
- - Extra Features
+Required Python packages:
+ - pandas
+ - numpy
+ - matplotlib
+ - seaborn
+ - scipy
 
-## 🧑‍💻 Technologies Used
+Install dependencies with:
+ - pip install pandas numpy matplotlib seaborn scipy jupyter
 
-- Python
-- Git
-- GitHub
-- Codespaces
-- Jupyter
+## Usage Instructions
+1. Clone the repository:
+ - git clone https://github.com/marianemcgrath/principles_of_da.git
+2. Navigate to the repository directory
+3. Launch Jupyter Notebook
+4. Open tasks.ipynb from the file browser
 
-## ℹ️ Overview
+# Key Features
+ - Interactive Code Cells: All code is executable and can be modified
+ - Commented Code: Major steps include explanatory comments
+ - Progressive Difficulty: Tasks build from basic to advanced concepts
+ - Practical Focus: Real-world data scenarios
 
-A paragraph explaining your work, who you are, and why you made it.
-
-
-### ✍️ Authors
-
-Could you mention who you are and link to your GitHub or organization's website?
+# Resources
 
 
-## ⬇️ Installation
 
-Simple, understandable installation instructions!
-And be sure to specify any other minimum requirements like Python versions or operating systems.
-*You may be inclined to add development instructions here, **don't.***
+# Contact
+ - Mariane McGrath
+ - Email: G00473468@atu.ie
+ - LinkedIn: /marianemcgrath
+   
+Feel free to reach out with questions or feedback!
 
-## 💭 Feedback and Contributing
-
-Add a link to the Discussions tab in your repo and invite users to open issues for bugs/feature requests.
-This is also a great place to invite others to contribute in any ways that make sense for your project. Point people to your DEVELOPMENT and/or CONTRIBUTING guides if you have them.
+## License 
+This project is for educational purposes as part of the Programming and Scripting course at ATU. Feel free to reference or adapt, but please avoid plagiarism.
