@@ -64,6 +64,7 @@ Install dependencies with:
 
 ## Table of Contents
 The notebook is organised into clear sections, each focusing on a specific data analysis task or concept.
+The tasks required to be completed are as follows:
 
 ### Task 1
 - Sourcing the Data Set: Import the Iris data set from the sklearn.datasets module. Explain, in your own words, what the load_iris() function returns.
@@ -88,6 +89,75 @@ The notebook is organised into clear sections, each focusing on a specific data 
 
 # Resources
 
+ **Datasets & Tools:**
+ - Iris Dataset
+ - UCI Machine Learning Repository: https://archive.ics.uci.edu/dataset/53/iris
+ - Scikit-learn Documentation: https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iris.html
+
+**Python Libraries:**
+ - NumPy: https://numpy.org/doc/stable/user/whatisnumpy.html
+ - SciPy: https://scipy.org/
+ - Scikit-learn Tutorial: https://www.digitalocean.com/community/tutorials/python-scikit-learn-tutorial
+
+**Jupyter Setup:**
+ - BMC Guide: https://www.bmc.com/blogs/installing-jupyter-for-big-data-and-analytics/
+ - Data Handling & Analysis
+
+**Pandas & DataFrames:**
+ - Converting Datasets: https://stackoverflow.com/questions/38105539/how-to-convert-a-scikit-learn-dataset-to-a-pandas-dataset
+
+  head(), tail(), and shape:
+ - GeeksforGeeks: https://www.geeksforgeeks.org/how-to-print-the-first-or-last-rows-of-a-data-set/
+ - Medium: https://medium.com/@heyamit10/understanding-pandas-shape-ba74dadf8387
+ - Analytics Vidhya: https://www.analyticsvidhya.com/blog/2023/07/head-and-tail-functions/
+ - DataFrame Size: https://www.datacamp.com/tutorial/python-dataframe-size
+ - Descriptive Stats (describe()): https://www.w3schools.com/python/pandas/ref_df_describe.asp
+
+**Statistical Metrics:**
+ - Mean/Standard Deviation:
+  - UCD: https://www.ucd.ie/msc/t4media/Mean%20and%20Standard%20Deviation.pdf
+  - LibreTexts: https://eng.libretexts.org/Bookshelves/Industrial_and_Systems_Engineering/Chemical_Process_Dynamics_and_Controls_(Woolf)/13%3A_Statistics_and_Probability_Background/13.01%3A_Basic_statistics-_mean_median_average_standard_deviation_z-scores_and_p-value
+
+**Data Visualization**
+ - General Visualization
+  - Benefits:
+ - Deloitte: https://www.deloitte.com/nl/en/services/tax/perspectives/bps-the-five-benefits-of-data-visualization.html
+ - Tableau: https://www.tableau.com/visualization/what-is-data-visualization
+
+**Matplotlib & Seaborn:**
+ - Intro to Matplotlib: https://www.w3schools.com/python/matplotlib_intro.asp
+ - Histograms: https://flexiple.com/python/exploratory-data-analysis-on-iris-dataset
+
+**Scatter Plots:**
+ - Scikit-learn: https://scikit-learn.org/1.4/auto_examples/datasets/plot_iris_dataset.html
+ - Medium (Zion Oladiran): https://zion-oladiran.medium.com/exploratory-data-analysis-iris-dataset-68897497b120
+
+**Boxplots:**
+ - Chartio: https://chartio.com/resources/tutorials/what-is-a-box-plot/
+ - Tableau: https://www.tableau.com/chart/what-is-box-and-whisker-plot
+ - GeeksforGeeks: https://www.geeksforgeeks.org/box-plot-in-python-using-matplotlib/
+
+**Heatmaps:**
+ - GeeksforGeeks: https://www.geeksforgeeks.org/generate-a-heatmap-in-matplotlib-using-a-scatter-dataset
+ - Matplotlib: https://matplotlib.org/stable/gallery/images_contours_and_fields/image_annotated_heatmap.html
+ - Atlassian Guide: https://www.atlassian.com/data/charts/heatmap-complete-guide
+
+**Pair Plots**
+ - Analytics Vidhya: https://www.analyticsvidhya.com/blog/2024/02/pair-plots-in-machine-learning/
+ - YouTube (Iris Classification): https://www.youtube.com/watch?v=dlFScQLOtoY
+
+**Regression & Correlation**
+ - Linear Regression:
+   - StackOverflow (Formula): https://stackoverflow.com/questions/55696942/how-to-apply-y-mx-b-formula-in-python
+   - Kaggle (Iris Regression): https://www.kaggle.com/code/lampubhutia/iris-linear-regression
+
+**R-squared Explanation:**
+ - Newcastle University: https://www.ncl.ac.uk/webtemplate/ask-assets/external/maths-resources/statistics/regression-and-correlation/coefficient-of-determination-r-squared
+ - SciPy: https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.linregress.html
+
+**Additional Resources**
+ - Scikit-learn: https://scikit-learn.org/stable/auto_examples/decomposition/plot_pca_iris.html
+ - Copilot: Used for graph styling assistance.
 
 
 # Contact
