@@ -2,7 +2,7 @@
 
 by Mariane McGrath
 
-#**Overview**
+# Overview
 This Jupyter Notebook contains practical exercises and code implementations for fundamental data analysis concepts. It serves as a hands-on companion to theoretical principles and covers essential data manipulation, visualisation, and analysis techniques.
 
 ## Notebook Structure
