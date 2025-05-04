@@ -1,0 +1,7 @@
+The following are required to run the tasks.ipynb Jupyter Notebook
+numpy
+pandas
+seaborn
+matplotlib
+scikit.learn
+scipy
