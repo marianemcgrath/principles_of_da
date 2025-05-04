@@ -1,4 +1,3 @@
-The following are required to run the tasks.ipynb Jupyter Notebook
 numpy
 pandas
 seaborn
